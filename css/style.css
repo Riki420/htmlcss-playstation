@@ -33,3 +33,17 @@
     padding: 0;
 
 }
+
+.btn-primary{
+    border-radius: 25px;
+}
+
+.my-btn-orange{
+    background-color: orange;
+    border: 1px solid orange;
+}
+
+.my-btn-grey{
+    background-color: #414141;
+    border: 1px solid #414141;
+}
