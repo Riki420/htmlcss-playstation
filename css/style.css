@@ -78,11 +78,20 @@
 
 .hvr-img:hover{
     cursor: pointer;
-    border: 1px solid blue;
+    border: 1px solid #00439c;
     border-radius: 25px;
 
 }
 
 .active{
-    border-bottom: 1px solid blue;
+    border-bottom: 2px solid #00439c;
+}
+
+.my-filter{
+    filter: opacity(0.5);
+}
+
+.my-filter:hover{
+    filter: opacity(1);
+    cursor: pointer;
 }
