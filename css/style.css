@@ -61,3 +61,14 @@
     background-color: #161c3b;
     
 }
+
+.my-round-1{
+    border-radius: 25px;
+}
+
+.hvr-img:hover{
+    cursor: pointer;
+    border: 1px solid blue;
+    border-radius: 25px;
+
+}
