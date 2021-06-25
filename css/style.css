@@ -2,7 +2,7 @@
     min-height: 80px;
 }
 
-.my-s-min-height{
+.my-s-footer-height{
     min-height: 400px;
 }
 .my-s-height{
@@ -11,6 +11,8 @@
 
 .my-s-logo-sony{
     height: 10px;
+    float: right;
+    margin-top: 5px;
 }
 
 .bg-img-1{
