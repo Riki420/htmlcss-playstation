@@ -1,5 +1,9 @@
-.my-s-min-height{
+.my-s-header-height{
     min-height: 80px;
+}
+
+.my-s-min-height{
+    min-height: 400px;
 }
 .my-s-height{
     height: 20px;
@@ -11,7 +15,7 @@
 
 .bg-img-1{
     background-image: url('../img/jumbo-bg.png');
-    background-position: center;
+    background-position: top;
     background-repeat: no-repeat;
     background-size: cover;
     min-height: 500px;
@@ -60,6 +64,10 @@
 .my-s-bg-now{
     background-color: #161c3b;
     
+}
+
+.my-bg-footer{
+    background-color: #00439c;
 }
 
 .my-round-1{
