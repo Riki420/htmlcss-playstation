@@ -1,19 +1,4 @@
-.my-s-header-height{
-    min-height: 80px;
-}
-
-.my-s-footer-height{
-    min-height: 400px;
-}
-.my-s-height{
-    height: 20px;
-}
-
-.my-s-logo-sony{
-    height: 10px;
-    float: right;
-    margin-top: 5px;
-}
+/***SFONDI BACKGROUND***/
 
 .bg-img-1{
     background-image: url('../img/jumbo-bg.png');
@@ -33,16 +18,21 @@
     position: relative;
 }
 
-.my-position-bottom{
-    position: absolute;
-    bottom: 20px;
-    left: 20px;
+.my-s-bg-plus{
+    background-color: #bebcbb;
+    
 }
 
-/* .container-fluid{
-    padding: 0;
+.my-s-bg-now{
+    background-color: #161c3b;
+    
+}
 
-} */
+.my-bg-footer{
+    background-color: #00439c;
+}
+
+/***BOTTONI***/
 
 .btn-primary{
     border-radius: 25px;
@@ -58,19 +48,37 @@
     border: 1px solid #414141;
 }
 
-.my-s-bg-plus{
-    background-color: #bebcbb;
-    
+
+
+
+.my-s-header-height{
+    min-height: 80px;
 }
 
-.my-s-bg-now{
-    background-color: #161c3b;
-    
+.my-s-footer-height{
+    min-height: 400px;
+}
+.my-s-height{
+    height: 20px;
 }
 
-.my-bg-footer{
-    background-color: #00439c;
+.my-s-logo-sony{
+    height: 10px;
+    float: right;
+    margin-top: 5px;
 }
+
+
+.my-position-bottom{
+    position: absolute;
+    bottom: 20px;
+    left: 20px;
+}
+
+/* .container-fluid{
+    padding: 0;
+
+} */
 
 .my-round-1{
     border-radius: 25px;
@@ -98,4 +106,22 @@
 .my-filter:hover{
     filter: opacity(1);
     cursor: pointer;
+}
+
+.footer-menu{
+    list-style-type: none;
+}
+
+.footer-menu a{
+    text-decoration: none;
+    color: #fff
+
+}
+
+.foot-link{
+    color: #fff;
+}
+
+.my-w-img{
+    width: 200px;
 }
