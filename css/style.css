@@ -60,6 +60,7 @@
 }
 
 .my-s-logo-sony{
+    margin-top: 5px;
     height: 10px;
     float: right;
 }
@@ -69,6 +70,10 @@
     position: absolute;
     bottom: 20px;
     left: 20px;
+}
+
+.my-s-b-height{
+    height: 20px;
 }
 
 /* .container-fluid{
